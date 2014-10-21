@@ -7,13 +7,13 @@ Screenshots
 ----------
 
 **Javascript**
-![JS Screenshot for Dark Peacock](https://raw.githubusercontent.com/umayr/dark-peacock/master/screenshots/javascript.JPG "Javascript Screenshot")
+![JS Screenshot for Dark Peacock](https://raw.githubusercontent.com/umayr/dark-peacock/master/screenshots/javascript.PNG "Javascript Screenshot")
 
 **SCSS**
-![SCSS Screenshot for Dark Peacock](https://raw.githubusercontent.com/umayr/dark-peacock/master/screenshots/scss.JPG "SCSS Screenshot")
+![SCSS Screenshot for Dark Peacock](https://raw.githubusercontent.com/umayr/dark-peacock/master/screenshots/scss.PNG "SCSS Screenshot")
 
 **HTML**
-![HTML Screenshot for Dark Peacock](https://raw.githubusercontent.com/umayr/dark-peacock/master/screenshots/html.JPG "HTML Screenshot")
+![HTML Screenshot for Dark Peacock](https://raw.githubusercontent.com/umayr/dark-peacock/master/screenshots/html.PNG "HTML Screenshot")
 
 Font
 ----
