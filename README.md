@@ -16,3 +16,5 @@ Font
 ----
 
 Font used in the screenshot is _Source Code Pro_.
+
+Pull requests are welcomed.
