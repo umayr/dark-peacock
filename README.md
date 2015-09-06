@@ -20,11 +20,11 @@ Then press `shift+command+g` and go to: `~/Library/Preferences/WebIde70/colors/`
 
 - Then navigate to `File > Settings > Editor > Colors & Fonts` and select the Dark Peacock color scheme.
 
-**Note**: If you couldn't find `.WebIde70` folder in your system then it means you're using different version of webstorm. There are different folders for each versions, such as:
- - Webstorm 7.x - `.WebIde70`
- - Webstorm 8.x - `.WebIde80`
- - Webstorm 9.x - `.WebStorm9`
- - Webstorm 10.x - `.WebStorm10`
+**Note**: If you couldn't find `.WebIde70` folder in your system then it means you're using different version of webstorm/phpstorm. There are different folders for each versions, such as:
+ - PhpStorm 7.x - `.WebIde70`
+ - PhpStorm 8.x - `.WebIde80`
+ - WebStorm 9.x - `.WebStorm9`
+ - WebStorm 10.x - `.WebStorm10`
 
 #### Screenshots
 **Javascript**
