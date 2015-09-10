@@ -1,9 +1,16 @@
-<scheme name="Dark Peacock II" version="141" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.3" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
+<scheme name="Dark Peacock" version="141" parent_scheme="Default">
+  <option name="LINE_SPACING" value="1.0" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Hack" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="SourceCodePro-Regular" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="292d38" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
