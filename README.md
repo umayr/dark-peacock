@@ -28,17 +28,20 @@ Then press `shift+command+g` and go to: `~/Library/Preferences/WebIde70/colors/`
 
 #### Screenshots
 **Javascript**
-![JS Screenshot for Dark Peacock](https://raw.githubusercontent.com/umayr/dark-peacock/master/screenshots/javascript.PNG "Javascript Screenshot")
+![JS Screenshot for Dark Peacock](https://raw.githubusercontent.com/umayr/dark-peacock/master/example/javascript.png "Javascript Screenshot")
 
 **SCSS**
-![SCSS Screenshot for Dark Peacock](https://raw.githubusercontent.com/umayr/dark-peacock/master/screenshots/scss.PNG "SCSS Screenshot")
+![SCSS Screenshot for Dark Peacock](https://raw.githubusercontent.com/umayr/dark-peacock/master/example/scss.png "SCSS Screenshot")
 
 **HTML**
-![HTML Screenshot for Dark Peacock](https://raw.githubusercontent.com/umayr/dark-peacock/master/screenshots/html.PNG "HTML Screenshot")
+![HTML Screenshot for Dark Peacock](https://raw.githubusercontent.com/umayr/dark-peacock/master/example/html.png "HTML Screenshot")
 
-### Font
+**Bash**
+![Bash Screenshot for Dark Peacock](https://raw.githubusercontent.com/umayr/dark-peacock/master/example/bash.png "Bash Screenshot")
 
-Font used in the screenshots is **Source Code Pro**.
+### Fonts
+
+Primary font for this theme is [Hack](http://sourcefoundry.org/hack/) by [**@chrissimpkins**](https://github.com/chrissimpkins/) while [Source Code Pro](http://adobe-fonts.github.io/source-code-pro/) by [**@adobe-fonts**](https://github.com/adobe-fonts/) serves as secondary one.
 
 #### License
 ````
