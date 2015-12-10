@@ -1,4 +1,4 @@
-<scheme name="Dark Peacock" version="141" parent_scheme="Default">
+<scheme name="Dark Peacock" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Hack" />
