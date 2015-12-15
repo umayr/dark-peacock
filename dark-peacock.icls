@@ -946,6 +946,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="RUBY_EXPR_IN_STRING">
+      <value>
+        <option name="FOREGROUND" value="ff5d38" />
+      </value>
+    </option>
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="d0d0ff" />
