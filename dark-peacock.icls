@@ -503,6 +503,144 @@
     <option name="DUPLICATE_FROM_SERVER">
       <value />
     </option>
+    	    <option name="ELIXIR_ALIAS">
+      <value>
+        <option name="FOREGROUND" value="ff5d38" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ELIXIR_BIT">
+      <value>
+        <option name="FOREGROUND" value="26a6a6" />
+      </value>
+    </option>
+    <option name="ELIXIR_BRACES">
+      <value>
+        <option name="FOREGROUND" value="bcd42a" />
+      </value>
+    </option>
+    <option name="ELIXIR_BRACKET">
+      <value>
+        <option name="FOREGROUND" value="ff5d38" />
+      </value>
+    </option>
+    <option name="ELIXIR_CALLBACK">
+      <value>
+        <option name="FOREGROUND" value="26a6a6" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ELIXIR_CHAR_LIST">
+      <value>
+        <option name="FOREGROUND" value="bcd42a" />
+      </value>
+    </option>
+    <option name="ELIXIR_CHAR_TOKEN">
+      <value>
+        <option name="FOREGROUND" value="26a6a6" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ELIXIR_DOCUMENTATION_TEXT">
+      <value>
+        <option name="FOREGROUND" value="747474" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="ELIXIR_DOT">
+      <value>
+        <option name="FOREGROUND" value="ff5d38" />
+      </value>
+    </option>
+    <option name="ELIXIR_EXPRESSION_SUBSTITUTION_MARK">
+      <value>
+        <option name="FOREGROUND" value="26a6a6" />
+      </value>
+    </option>
+    <option name="ELIXIR_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="bcd42a" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="ELIXIR_MACRO_CALL">
+      <value>
+        <option name="FOREGROUND" value="26a6a6" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="ELIXIR_MAP">
+      <value>
+        <option name="FOREGROUND" value="26a6a6" />
+      </value>
+    </option>
+    <option name="ELIXIR_MODULE_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="bcd42a" />
+      </value>
+    </option>
+    <option name="ELIXIR_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="26a6a6" />
+      </value>
+    </option>
+    <option name="ELIXIR_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="ELIXIR_PARENTHESES">
+      <value>
+        <option name="FOREGROUND" value="26a6a6" />
+      </value>
+    </option>
+    <option name="ELIXIR_PREDEFINED">
+      <value>
+        <option name="FOREGROUND" value="26a6a6" />
+      </value>
+    </option>
+    <option name="ELIXIR_SIGIL">
+      <value>
+        <option name="FOREGROUND" value="26a6a6" />
+      </value>
+    </option>
+    <option name="ELIXIR_SPECIFICATION">
+      <value>
+        <option name="FOREGROUND" value="26a6a6" />
+      </value>
+    </option>
+    <option name="ELIXIR_STRING">
+      <value>
+        <option name="FOREGROUND" value="bcd42a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ELIXIR_STRUCT">
+      <value>
+        <option name="FOREGROUND" value="26a6a6" />
+      </value>
+    </option>
+    <option name="ELIXIR_TYPE">
+      <value>
+        <option name="FOREGROUND" value="ff5d38" />
+      </value>
+    </option>
+    <option name="ELIXIR_TYPE_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="26a6a6" />
+      </value>
+    </option>
+    <option name="ELIXIR_VALID_ESCAPE_SEQUENCE">
+      <value>
+        <option name="FOREGROUND" value="ff5d38" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ELIXIR_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
     <option name="ENUM_CONST">
       <value>
         <option name="FOREGROUND" value="9373a5" />
